@@ -4,10 +4,7 @@ A stylish responsive sidebar navigation project using **HTML**, **CSS**, and **F
 
 ## 🔗 Live Demo
 
-## 🔗 Live Demo
-
-[Click here to view the live website](https://sakshi330g.github.io/sidebar-project/)
-
+[Click here to view the live website](https://sakshi330g.github.io/Photography/)
 
 ---
 
